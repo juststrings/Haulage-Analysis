@@ -16,7 +16,7 @@ Including a year over year analysis.
 # Data Sourcing
 The dataset was provided by my mentor <br>
 [Sulaiman Lukman](https://www.linkedin.com/in/sulaimanlukmanadeleke/) <br>
-## The data includes 5 excel sheets;
+## The dataset includes 5 excel sheets;
 - Closed trip list: This icludes more than 7 columns: 
     - Trip No
     - Date
@@ -44,6 +44,22 @@ The dataset was provided by my mentor <br>
     - Parking Fees
     - Capacity
     - Product
-- Truck Available
+- Truck Available: This icludes more than 7 columns: 
+    - Truck No
+    - Product Type
+    - Capacity
+    - Truck Classification
+    - Aquilla Status
+    - Status(Availability)
+    - Depot Location
+- Truck List: This icludes more than 7 columns: 
+    - Truck No
+    - Product Type
+    - Capacity
+    - Truck Classification
+    - Aquilla Status
+    - Status(Availability)
+    - Depot Location
+    - Registration Year
+    - Use column
 
-- Truck List
