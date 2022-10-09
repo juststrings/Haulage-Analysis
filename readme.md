@@ -126,7 +126,8 @@ I enabled many to one relationship and cross filter direction from the destinati
 ---
 
 # Findings and Recommendations 
-Starting From the Truck Section<br>
+
+##Starting From the Truck Section<br>
 Which contains 5 main visuals, 6 cards and 3 slicers
 ### The cards shows:
 - The total trucks
