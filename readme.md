@@ -126,6 +126,10 @@ I enabled many to one relationship and cross filter direction from the destinati
 ---
 
 # Findings and Recommendations 
+Starting From the Truck Section
+<br><br>
+![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
+
 
 
 
