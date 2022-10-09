@@ -104,7 +104,8 @@ Which Includes:
 - Secondary Keys
 <br>
 <br>
-![Destination3](https://user-images.githubusercontent.com/92920156/194776711-e80784d3-1e3c-4e4c-99e2-2245048b66e7.jpg)
+![Destination3](https://user-images.githubusercontent.com/92920156/194777110-b97037cb-006b-4fc9-a9e8-cbaf64182686.jpg)
+
 
 
 ### - Step 3
@@ -113,6 +114,7 @@ I also disabled power bi's defualt date table by setting my created table as my 
 
 ## Data Modeling
 I enabled many to one relationship and cross filter direction from the destination table (fact table) to other tables using their respective keys.
+<br>
 <br>
 ![model](https://user-images.githubusercontent.com/92920156/194776944-7cab5945-3346-414e-9f5a-8e61d43288d4.jpg)
 
