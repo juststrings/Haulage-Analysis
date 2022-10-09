@@ -4,6 +4,8 @@ Haulage Analysis for a fictional haulage bussiness.
 
 # Project Name: Hualage Analysis (Deriving insights From Data)
 ![homepage](https://user-images.githubusercontent.com/92920156/194767939-de70c762-1380-4633-9b3a-4271b7950b81.jpg)
+image source: google.com <br>
+all rights belongs to the creator
 
 ---
 # Problem Objective:   
