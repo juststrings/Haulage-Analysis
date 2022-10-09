@@ -17,7 +17,7 @@ Including a year over year analysis.
 The dataset was provided by my mentor <br>
 [Sulaiman Lukman](https://www.linkedin.com/in/sulaimanlukmanadeleke/) <br>
 ## The data includes 5 excel sheets;
-- Closed trip list: This icludes 7 columns: 
+- Closed trip list: This icludes more than 7 columns: 
     - Trip No
     - Date
     - Time
@@ -25,7 +25,7 @@ The dataset was provided by my mentor <br>
     - Driver Name
     - Destination
     - Actual Arriver Date   
-- Open trip list
+- Open trip list:  This icludes more than 7 columns: 
     - Trip No
     - Date
     - Time
@@ -33,6 +33,17 @@ The dataset was provided by my mentor <br>
     - Driver Name
     - Destination
     - Actual Arriver Date 
-- Trip Rates
+- Trip Rates:  This icludes more than 9 columns: 
+    - Load Port
+    - Destinatiom
+    - Product Category
+    - Trip Rate
+    - Loading Expenses
+    - Trip Allowance
+    - Union Fees
+    - Parking Fees
+    - Capacity
+    - Product
 - Truck Available
+
 - Truck List
