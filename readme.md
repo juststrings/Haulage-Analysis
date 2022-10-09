@@ -156,6 +156,18 @@ This shows trucks by their registration type
 #### Importance of The visual
 This will enable the stakeholders know which of their trucks are available for aquilla approved states
 
+
+### Line charts showing total trips, closed trips and open trips
+This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
+#### Importance of The visual
+This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
+
+### Barcharts showing the percentage classification of trips
+This shows the percentage classification of all trucks 
+#### Importance of The visual
+This will enable the stakeholders know the truck types they have in stock and the type of destination they can travel based on their classification and know which type of trucks will warrant more investment.<br>
+With Bridging meaning long distance trucks, West local- Trucks that travels to closer states and local meaning trucks that travels within states.
+
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
 
