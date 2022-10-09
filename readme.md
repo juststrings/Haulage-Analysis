@@ -134,11 +134,21 @@ Which contains 5 main visuals, 6 cards and 3 slicers
 - Trucks Under Repair
 - The three classification of trucks
 
+### The cards shows:
+- Year Slicer to filter between years
+- Status Slicer to filter between available and unavailable trucks
+- Classification Slicers to filter between the classification of the truck 
+
 ## Now to the Visuals
 ### The first visual contains a pie charts showing the total trucks by the year Purchased
 #### Importance of The visual
-This visual will make its easier for the decision makers to know which of their trucks are prone to breakdown and be ready to be ready before hands.
+This visual will make its easier for the decision makers to know which of their trucks are prone to breakdown and prepare for it before hands.
 Factors influencing breakdown include how much the trucks is being used this brings us to the next visuals
+
+### Total Trips per trucks
+This visual shows how many trips a truck has travelled through out the bussiness's lifetime(2 years+).
+#### Importance of The visual
+This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand due to breakdown.
 
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
