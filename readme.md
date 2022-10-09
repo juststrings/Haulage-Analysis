@@ -102,12 +102,14 @@ Which Includes:
 - Union Fees
 - Destination (three columns- Destination name, Latitude and Longitude)
 - Secondary Keys
+<br>
+<br>
 ![Destination3](https://user-images.githubusercontent.com/92920156/194776711-e80784d3-1e3c-4e4c-99e2-2245048b66e7.jpg)
 
 
 ### - Step 3
-I created a date table using blank query and M code.
-To disable power bi's defualt date
+I created a date table using blank query and M code.<br>
+I also disabled power bi's defualt date table by setting my created table as my date table
 
 ## Data Modeling
 I enabled many to one relationship and cross filter direction from the destination table (fact table) to other tables using their respective keys.
