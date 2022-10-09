@@ -85,5 +85,8 @@ Then I used excel to create a new table including just a column named total truc
 I didnt append both tables because they had little structural differences.
 Then i imported this newly created table which i named destinations into power bi (note: I later used this table as my fact table. Forgive me for the wrong choice of name)
 
+### - Step 1
+
+
 
 
