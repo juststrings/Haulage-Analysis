@@ -15,8 +15,10 @@ Including a year over year analysis.
 
 # Data Sourcing
 The dataset was provided by my mentor <br>
-[Sulaiman Lukman](https://www.linkedin.com/in/sulaimanlukmanadeleke/)
-
-
-
-The data includes just one table with 9 columns: Id, Airline, Flight, Airport From, Airport to, DaysOfweek, Time, Length and Delay
+[Sulaiman Lukman](https://www.linkedin.com/in/sulaimanlukmanadeleke/) <br>
+##The data includes just one table with 5 excel sheets;
+- closed trip list
+- open trip list
+- Trip Rates
+- Truck Available
+- Truck List
