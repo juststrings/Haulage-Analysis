@@ -16,7 +16,7 @@ Including a year over year analysis.
 # Data Sourcing
 The dataset was provided by my mentor <br>
 [Sulaiman Lukman](https://www.linkedin.com/in/sulaimanlukmanadeleke/) <br>
-##The data includes just one table with 5 excel sheets;
+## The data includes just one table with 5 excel sheets;
 - closed trip list
 - open trip list
 - Trip Rates
