@@ -62,4 +62,8 @@ The dataset was provided by my mentor <br>
     - Depot Location
     - Registration Year
     - Use column
+# Tools to used to actualize the project
+Power Bi<br>
+Excel<br>
+Notepad<br>
 
