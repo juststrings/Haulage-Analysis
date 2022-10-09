@@ -102,8 +102,7 @@ Which Includes:
 - Union Fees
 - Destination (three columns- Destination name, Latitude and Longitude)
 - Secondary Keys
-<br>
-<br>
+<br><br>
 ![Destination3](https://user-images.githubusercontent.com/92920156/194777110-b97037cb-006b-4fc9-a9e8-cbaf64182686.jpg)
 
 
