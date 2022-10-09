@@ -77,6 +77,7 @@ The dataset was provided by my mentor <br>
 ## Data Cleaning & Transformation
 After imprting the data using the import method in power bi:
 Then, the first task i did was to clean the data by renaming misspelt values in columns, changing data-types and splitting the date-time columns (in tables that had them) to increase performance.<br>
+<br/>
 ![applied steps 1](https://user-images.githubusercontent.com/92920156/194769932-eaf39578-461a-4dca-b480-a8b502cdd211.jpg)
 
 
