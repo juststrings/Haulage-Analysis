@@ -141,28 +141,28 @@ Which contains 5 main visuals, 6 cards and 3 slicers
 - Classification Slicers to filter between the classification of the truck 
 
 ## Now to the Visuals
-### - The first visual contains a pie charts showing the total trucks by the year Purchased
+- ### The first visual contains a pie charts showing the total trucks by the year Purchased
 #### Importance of The visual
 This visual will make its easier for the decision makers to know which of their trucks are prone to breakdown and prepare for it before hands.
 Factors influencing breakdown include how much the trucks is being used this brings us to the next visuals
 
-### - Bar chart showing the Total Trips per trucks
+- ### Bar chart showing the Total Trips per trucks
 This visual shows how many trips a truck has travelled through out the bussiness's lifetime(2 years+).
 #### Importance of The visual
 This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand due to breakdown.
 
-### - Treemap Visual showing aquilla status by trucks
+- ### Treemap Visual showing aquilla status by trucks
 This shows trucks by their registration type
 #### Importance of The visual
 This will enable the stakeholders know which of their trucks are available for aquilla approved states
 
 
-### - Line charts showing total trips, closed trips and open trips
+- ### Line charts showing total trips, closed trips and open trips
 This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
 #### Importance of The visual
 This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
 
-### Barcharts showing the percentage classification of trips
+- ### Barcharts showing the percentage classification of trips
 This shows the percentage classification of all trucks 
 #### Importance of The visual
 This will enable the stakeholders know the truck types they have in stock and the type of destination they can travel based on their classification and know which type of trucks will warrant more investment.<br>
