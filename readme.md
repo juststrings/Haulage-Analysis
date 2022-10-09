@@ -37,7 +37,6 @@ The dataset was provided by my mentor <br>
     - Date
     - Time
     - Truck No
-    - Driver Name
     - Destination
     - Actual Arriver Date 
 - Trip Rates:  This icludes more than 9 columns: 
@@ -80,5 +79,8 @@ Then, the first task i did was to clean the data by renaming misspelt values in 
 <br/>
 ![applied steps 1](https://user-images.githubusercontent.com/92920156/194769932-eaf39578-461a-4dca-b480-a8b502cdd211.jpg)
 
+Then I used excel to create a new table including just a column named total truck trip by copy the truck trip id from both closed and open trips into a single column. This was done to create a better relationship between this two columns.<br>
+### Note
+I didnt append because both tables becomes they had little structural differences.
 
 
