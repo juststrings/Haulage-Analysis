@@ -17,11 +17,14 @@ Including a year over year analysis.
 The dataset was provided by my mentor <br>
 [Sulaiman Lukman](https://www.linkedin.com/in/sulaimanlukmanadeleke/) <br>
 ## The data includes 5 excel sheets;
-- closed trip list: This icludes 9 columns
-    - The trip number
+- Closed trip list: This icludes 9 columns: 
+    - Trip No
     - Date
-    
-    
+    - Time
+    - Truck No
+    - Driver Name
+    - Destination
+    - Actual Arriver Date   
 - open trip list
 - Trip Rates
 - Truck Available
