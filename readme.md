@@ -74,6 +74,8 @@ The dataset was provided by my mentor <br>
 
 # Data Transformation & Modeling
 
-## Data Transformation
+## Data Cleaning & Transformation
+The first task i did was to clean the data by renaiming misspelt values in columns, changing data-types and splitting the date-time columns (in tables that had them) to increase performance.<br>
+
 
 
