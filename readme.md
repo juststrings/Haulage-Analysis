@@ -126,7 +126,20 @@ I enabled many to one relationship and cross filter direction from the destinati
 ---
 
 # Findings and Recommendations 
-Starting From the Truck Section
+Starting From the Truck Section<br>
+Which contains 5 main visuals, 6 cards and 3 slicers
+### The cards shows:
+- The total trucks
+- Trucks In Use
+- Trucks Under Repair
+- The three classification of trucks
+
+## Now to the Visuals
+### The first visual contains a pie charts showing the total trucks by the year Purchased
+#### Importance of The visual
+This visual will make its easier for the decision makers to know which of their trucks are prone to breakdown and be ready to be ready before hands.
+Factors influencing breakdown include how much the trucks is being used this brings us to the next visuals
+
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
 
