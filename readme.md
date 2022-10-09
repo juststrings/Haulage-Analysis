@@ -127,7 +127,7 @@ I enabled many to one relationship and cross filter direction from the destinati
 
 # Findings and Recommendations 
 
-## Starting From the Truck Section<br>
+## Starting From the Truck Section <br>
 Which contains 5 main visuals, 6 cards and 3 slicers
 ### The cards shows:
 - The total trucks
@@ -169,10 +169,9 @@ This will enable the stakeholders know the truck types they have in stock and th
 With Bridging meaning long distance trucks, West local- Trucks that travels to closer states and local meaning trucks that travels within states.
 
 - ### Matrix Showing the capacity of trucks by total trucks and available trucks
-This shows the the total 
+This shows the total trucks by capacity and available trucks
 #### Importance of The visual
-This will enable the stakeholders know the truck types they have in stock and the type of destination they can travel based on their classification and know which type of trucks will warrant more investment.<br>
-With Bridging meaning long distance trucks, West local- Trucks that travels to closer states and local meaning trucks that travels within states.
+This will enable the stakeholders know the truck by capacity they have in stock and those that are available for jobs. When clients demands for them
 
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
