@@ -14,9 +14,9 @@ Create a Report that gives the insights on a fictional haulage bussiness coverin
 Including a year over year analysis.
 
 # Data Sourcing
+The dataset was provided by my mentor <br>
+[Sulaiman Lukman]([https://www.google.com/](https://www.linkedin.com/in/sulaimanlukmanadeleke/)) 
 
-The data was provided by my mentor 
-https://www.linkedin.com/in/sulaimanlukmanadeleke/
 
 
 The data includes just one table with 9 columns: Id, Airline, Flight, Airport From, Airport to, DaysOfweek, Time, Length and Delay
