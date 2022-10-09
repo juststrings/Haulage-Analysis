@@ -15,7 +15,7 @@ Including a year over year analysis.
 
 # Data Sourcing
 The dataset was provided by my mentor <br>
-[Sulaiman Lukman]([https://www.google.com/](https://www.linkedin.com/in/sulaimanlukmanadeleke/)) 
+[Sulaiman Lukman](https://www.google.com/](https://www.linkedin.com/in/sulaimanlukmanadeleke/)
 
 
 
