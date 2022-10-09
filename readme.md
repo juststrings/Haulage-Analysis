@@ -151,6 +151,11 @@ This visual shows how many trips a truck has travelled through out the bussiness
 #### Importance of The visual
 This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand due to breakdown.
 
+### Treemap Visual showing aquilla status by trucks
+This visual shows how many trips a truck has travelled through out the bussiness's lifetime(2 years+).
+#### Importance of The visual
+This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand due to breakdown.
+
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
 
