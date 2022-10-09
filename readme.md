@@ -83,7 +83,7 @@ Then, the first task i did was to clean the data by renaming misspelt values in 
 Then I used excel to create a new table including just a column named total truck trip by copy the truck trip id from both closed and open trips into a single column. This was done to create a better relationship between this two columns.<br>
 ### Note
 I didnt append both tables because they had little structural differences.
-Then i imported this newly created table which i named destinations into power bi (note i later used this table as my fact table. Forgive me for the wrong choice of name)
+Then i imported this newly created table which i named destinations into power bi (note: I later used this table as my fact table. Forgive me for the wrong choice of name)
 
 
 
