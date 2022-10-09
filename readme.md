@@ -75,12 +75,15 @@ The dataset was provided by my mentor <br>
 
 ## Data Cleaning & Transformation
 After imprting the data using the import method in power bi:
+### - Step 1
 Then, the first task i did was to clean the data by renaming misspelt values in columns, changing data-types and splitting the date-time columns (in tables that had them) to increase performance.<br>
 <br/>
 ![applied steps 1](https://user-images.githubusercontent.com/92920156/194769932-eaf39578-461a-4dca-b480-a8b502cdd211.jpg)
 
 Then I used excel to create a new table including just a column named total truck trip by copy the truck trip id from both closed and open trips into a single column. This was done to create a better relationship between this two columns.<br>
 ### Note
-I didnt append because both tables becomes they had little structural differences.
+I didnt append because both tables had little structural differences.
+Then i imported this newly created table which i named destinations into power bi (note i later used this table as my fact table. Forgive me for the wrong choice of name)
+
 
 
