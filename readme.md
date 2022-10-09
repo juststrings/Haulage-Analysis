@@ -145,7 +145,7 @@ Which contains 5 main visuals, 6 cards and 3 slicers
 This visual will make its easier for the decision makers to know which of their trucks are prone to breakdown and prepare for it before hands.
 Factors influencing breakdown include how much the trucks is being used this brings us to the next visuals
 
-### Total Trips per trucks
+### Bar chart showing the Total Trips per trucks
 This visual shows how many trips a truck has travelled through out the bussiness's lifetime(2 years+).
 #### Importance of The visual
 This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand due to breakdown.
