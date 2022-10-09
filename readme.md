@@ -154,7 +154,7 @@ This will enable the stakeholders know which of their trucks are the most active
 ### Treemap Visual showing aquilla status by trucks
 This shows trucks by their registration type
 #### Importance of The visual
-This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand due to breakdown.
+This will enable the stakeholders know which of their trucks are available for aquilla approved states
 
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
