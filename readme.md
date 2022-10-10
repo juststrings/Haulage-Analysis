@@ -183,10 +183,12 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
 <br><br>
 
-[<img src="https://user-images.githubusercontent.com/92920156/194769932-eaf39578-461a-4dca-b480-a8b502cdd211.jpg" />](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+<div target=”_blank” >
+[<img src="https://user-images.githubusercontent.com/92920156/194880008-de38eee6-05cd-4aa1-8c71-1bee3ce9addd.jpg" />]
+    (https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+</div>
 
 
-        
 ## 2. The Trip Section
 Which contains 4 main visuals, 3 cards and 3 slicers
 ### The cards shows:
