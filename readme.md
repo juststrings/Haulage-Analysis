@@ -182,7 +182,6 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
 
 
-
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
 
