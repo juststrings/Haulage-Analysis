@@ -180,12 +180,44 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
-
-
+<br><br>
 <div align=center>
     <iframe title="Report Section" width="1440" height="1440" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection16a40e10e52960e0676b" frameborder="0" allowFullScreen="true">
     </iframe>
 </div>
+
+## The Trip Section <br>
+Which contains 4 main visuals, 3 cards and 3 slicers
+### The cards shows:
+- Total Trips
+- Total Open Trips
+- Total Closed Trips
+
+### The cards shows:
+- Year Slicer to filter between years
+- The Truck No slicer
+- The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
+
+## Now to the Visuals
+- ### The first visual contains a bar charts showing the Most Avtive Depot
+#### Importance of The visual
+This visual will make its easier for the decision makers to know which of depot they have more presence in advert of employement and development
+
+- ### Line charts showing total trips, closed trips and open trips
+This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
+#### Importance of The visual
+This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
+
+
+## Findings
+Majority of the companies truck were purchased in 2020.<br>
+The top 5 trucks that travelled the most destination where purchased in year 2020 with majority being non aquilla, bridging trucks having majority capacity of 45,000litres and none currentlu under repair.<br>
+Over 160 of these trucks are available for use while 290 are currently on route at the time the data was collected.
+
+## Recommendation
+I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
+
+
 <br><br>
 
 
