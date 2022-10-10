@@ -370,9 +370,6 @@ Road pilot Bala Generated the most Revenue which is understandable due to the ty
 ## Recommendation
 Other drivers should be charged to work more to reduce the overhead effect on the company's revenue incase Mr Bala decides to leave.
 
-[![Product Section](https://user-images.githubusercontent.com/92920156/194882900-b0289125-f724-4ed3-82ff-e8fa47667ca1.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
-
-
-
+[![Revenue Section](https://user-images.githubusercontent.com/92920156/194907077-a8565d24-3f23-4068-af43-92a89906e40d.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
 
 
