@@ -183,6 +183,7 @@ I will recommed the stakeholders to get new trucks to replace these trucks in fe
 
 
 <br><br>
+<iframe title="Report Section" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection16a40e10e52960e0676b" frameborder="0" allowFullScreen="true"></iframe>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
 
 
