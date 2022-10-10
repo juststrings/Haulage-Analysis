@@ -183,7 +183,7 @@ I will recommed the stakeholders to get new trucks to replace these trucks in fe
 <br><br>
 
 <div align:center height: 150px;  width: 50%;>
-<iframe title="Haulage 3" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9" frameborder="0" allowFullScreen="false">     </iframe>
+<iframe title="Haulage 3" width="1040" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9" frameborder="0" allowFullScreen="false">     </iframe>
 </div>
 
 
