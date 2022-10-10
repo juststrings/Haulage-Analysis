@@ -141,7 +141,7 @@ Which contains 5 main visuals, 6 cards and 3 slicers
 - Status Slicer to filter between available and unavailable trucks
 - Classification Slicers to filter between the classification of the truck 
 
-## Now to the Visuals
+### Now to the Visuals
 - ### The first visual contains a pie charts showing the total trucks by the year Purchased
 #### Importance of The visual
 This visual will make its easier for the decision makers to know which of their trucks are prone to breakdown and prepare for it before hands.
@@ -198,7 +198,7 @@ Which contains 4 main visuals, 3 cards and 3 slicers
 - The Truck No slicer
 - The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
 
-## The Visuals
+### The Visuals
 - ### The first visual contains a bar charts showing the Most Active Depot
 #### Importance of The visual
 This visual will make its easier for the decision makers to know which of depot they have more presence in advert of employement and development
@@ -242,7 +242,7 @@ Which contains 4 main visuals, 8 cards and 3 slicers
 - The Classification Slicer(to filter truck classification to better undertsand the trip carried out by drivers)
 - The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
 
-## The Visuals
+### The Visuals
 - ### The first visual contains a pie charts showing expenses by drivers
 #### Importance of The visual
 This visual will make its easier for the decision makers to know which of their drivers are they spending the most on.
@@ -288,7 +288,7 @@ Which contains 5 main visuals, 1 cards and 2 slicers
 - Year Slicer to filter between years
 - The Status Slicer
 
-## The Visuals
+### The Visuals
 - ### The first visual contains a pie chart showing the product moved by status (open or closed)
 #### Importance of The visual
 This visual will make its easier for the decision makers to know the quantity of product on the road and those delivered.
@@ -331,7 +331,8 @@ Which contains 5 main visuals, 1 cards and 2 slicers
 - Year Slicer to filter between years
 - The Status Slicer
 
-## The Column Chart Visuals
+### The Visuals
+### The Column Chart Visuals
 - ### The total revenue by product type
 #### Importance of The visual
 This visual will make its easier for the decision makers to which product gives them the most revenue
@@ -379,13 +380,13 @@ Which contains 5 main visuals, 1 multi cards and 2 slicers
 - Year Slicer to filter between years
 - The Status Slicer
 
-
+### The Visuals
 - ### The Decomposition Tree
 This shows a breakdown of profit by depot, destination, product type, trip status and driver's name.
 #### Importance of The visual
 This will enable the stakeholders drill through the revenue and notice the factors affecting the profit.
 
-## The Column Chart Visuals
+### The Column Chart Visuals
 - ### The total profit by product type
 #### Importance of The visual
 This visual will make its easier for the decision makers to which product gives them the most profit.
@@ -450,7 +451,7 @@ This shows a breakdown of all expenses by depot, destination, product type, trip
 #### Importance of The visual
 This will enable the stakeholders drill through the revenue and notice the factors influencing their expenses.
 
-## The Column Chart Visuals
+### The Column Chart Visuals
 - ### The expenses by product type
 #### Importance of The visual
 This visual will make its easier for the decision makers to which product they are spending more on.
@@ -488,7 +489,7 @@ This shows a breakdown of Loading Expenses, Union Expenses, Trip Allowance (in t
 #### Importance of The visual
 This will enable the stakeholders drill through the revenue and notice the factors influencing their expenses.
 
-## The Column Chart Visuals
+### The Column Chart Visuals
 - ### The Loading Expenses, Union Expenses, Trip Allowance (in their respective bookmarks) by product type
 #### Importance of The visual
 This visual will make its easier for the decision makers to which product they are spending more on.
