@@ -303,10 +303,14 @@ This shows the product types by expenses
 #### Importance of The visual
 This will enable the stakeholders know which of the product types are the spending the most in, in terms of transportation.
 
+- ### The column chart
+This shows the product by product moved
+#### Importance of The visual
+This will enable the stakeholders know which of the product have they moved the most.
 
 ## Findings
-A total of 15K trips have being carried out by the company at the time of this report. Having a total of over 6k closed trips and 7k open trips. <br> 
-Warri depot happens to be the most active depot, while abuja happens to be the most visited places.
+The most moved product is the white product.<br>
+Lesser product are on the road compared to the successfully delivered own
 
 ## Recommendation
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
