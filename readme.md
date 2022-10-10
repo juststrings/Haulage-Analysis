@@ -281,17 +281,10 @@ I will recommed the stakeholders to make give provide initiatives for outstandin
 <a  href="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9" target=”_blank” ><img src="https://user-images.githubusercontent.com/92920156/194876546-d22a6907-198b-4f9c-921f-3e1c4bbfde03.jpg"></img>
 </a>
 
-## The Product Section
-Which contains 4 main visuals, 8 cards and 3 slicers
+## 4. The Product Section
+Which contains 5 main visuals, 1 cards and 2 slicers
 ### The cards shows:
-- Total No of Drivers
-- Total Closed Trips
-- Total Revenue
-- Expenses
-- Profit
-- Total Number of bridging drivers
-- West local drivers
-- Local Drivers
+
 
 ### The slicers shows:
 - Year Slicer to filter between years
@@ -321,6 +314,11 @@ Warri depot happens to be the most active depot, while abuja happens to be the m
 
 ## Recommendation
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
+
+
+[![Product Section]([link to image on GH](https://user-images.githubusercontent.com/92920156/194882900-b0289125-f724-4ed3-82ff-e8fa47667ca1.jpg))](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+
+
 
 
 
