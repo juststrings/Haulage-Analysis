@@ -199,7 +199,7 @@ Which contains 4 main visuals, 3 cards and 3 slicers
 - The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
 
 ## Now to the Visuals
-- ### The first visual contains a bar charts showing the Most Avtive Depot
+- ### The first visual contains a bar charts showing the Most Active Depot
 #### Importance of The visual
 This visual will make its easier for the decision makers to know which of depot they have more presence in advert of employement and development
 
