@@ -367,30 +367,17 @@ Other drivers should be charged to work more to reduce the overhead effect on th
 
 [![Revenue Section](https://user-images.githubusercontent.com/92920156/194907077-a8565d24-3f23-4068-af43-92a89906e40d.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
 
-
-## 6. The Expenses Section
-Which contains 5 bookmarks, 5 main visuals, 1 multi cards and 2 slicers
-### The multi-cards shows
+## 5. The Profit Section
+Which contains 5 main visuals, 1 multi cards and 2 slicers
+### The cards shows
+- The total trip rate
 - Total Expenses
-- Total Loading Expenses
-- Total Trip Allowance
-- Total Union Expenses
+- Total Profit
+- Total % Profit
 
 ### The slicers includes:
 - Year Slicer to filter between years
 - The Status Slicer
-
-### The Bookmarks
-- Expenses
-- Loading Expenses
-- Union Expenses
-- Trip Allowance
-- All Expenses
-#### Note three bookmarks contains the same visual but the reference columns are being replaced in respective bookmarks.
-    -   Reference columns include
-            - Loading Expenses
-            - Union Expenses
-            - Trip Allowance
 
 
 - ### The Decomposition Tree
@@ -430,17 +417,30 @@ Other drivers should be charged to work more to reduce the overhead effect on th
 
 [![Profit Section](https://user-images.githubusercontent.com/92920156/194908483-d776ad49-c7b0-466b-96a8-f6e189de6cc4.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
 
-## 5. The Profit Section
-Which contains 5 main visuals, 1 multi cards and 2 slicers
-### The cards shows
-- The total trip rate
+
+## 6. The Expenses Section
+Which contains 5 bookmarks, 5 main visuals, 1 multi cards and 2 slicers
+### The multi-cards shows
 - Total Expenses
-- Total Profit
-- Total % Profit
+- Total Loading Expenses
+- Total Trip Allowance
+- Total Union Expenses
 
 ### The slicers includes:
 - Year Slicer to filter between years
 - The Status Slicer
+
+### The Bookmarks
+- Expenses
+- Loading Expenses
+- Union Expenses
+- Trip Allowance
+- All Expenses
+#### Note three bookmarks contains the same visual but the reference columns are being replaced in respective bookmarks.
+    -   Reference columns include
+            - Loading Expenses
+            - Union Expenses
+            - Trip Allowance
 
 
 - ### The Decomposition Tree
