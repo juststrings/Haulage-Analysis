@@ -197,7 +197,7 @@ Which contains 4 main visuals, 3 cards and 3 slicers
 - The Truck No slicer
 - The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
 
-## Now to the Visuals
+## The Visuals
 - ### The first visual contains a bar charts showing the Most Active Depot
 #### Importance of The visual
 This visual will make its easier for the decision makers to know which of depot they have more presence in advert of employement and development
@@ -215,7 +215,8 @@ This will enable the stakeholders know which area or route to create repair shop
 
 
 ## Findings
-
+A total of 15K trips have being carried out by the company at the time of this report. Having a total of over 6k closed trips and 7k open trips. <br> 
+Warri depot happens to be the most active depot, while abuja happens to be the most visited places.
 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
