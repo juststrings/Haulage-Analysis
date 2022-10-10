@@ -219,8 +219,7 @@ A total of 15K trips have being carried out by the company at the time of this r
 Warri depot happens to be the most active depot, while abuja happens to be the most visited places.
 
 ## Recommendation
-I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repait
-
+I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
 <br><br>
 <div align=left >
 <iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9" frameborder="0" allowFullScreen="false">     </iframe>
