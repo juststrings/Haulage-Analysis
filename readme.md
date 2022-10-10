@@ -181,9 +181,9 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
 <br><br
-        
-![truck section](https://user-images.githubusercontent.com/92920156/194875885-b0ab3ee4-68d0-4b25-8de9-b66a0569a94f.jpg)
+ ![truck section](https://user-images.githubusercontent.com/92920156/194876715-6e3874a8-c4e7-4984-a568-5c6b67052913.jpg)
 
+        
 ## 2. The Trip Section
 Which contains 4 main visuals, 3 cards and 3 slicers
 ### The cards shows:
@@ -220,12 +220,11 @@ Warri depot happens to be the most active depot, while abuja happens to be the m
 ## Recommendation
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
 <br><br>
- 
- ![trip section](https://user-images.githubusercontent.com/92920156/194876312-55d2cf9c-2cee-4679-9824-9d0cc7b2b4bf.jpg)
+![trip section](https://user-images.githubusercontent.com/92920156/194876312-55d2cf9c-2cee-4679-9824-9d0cc7b2b4bf.jpg)
 
 
 
-3. ## The Drivers Section
+## 3. The Drivers Section
 Which contains 4 main visuals, 8 cards and 3 slicers
 ### The cards shows:
 - Total No of Drivers
@@ -275,11 +274,9 @@ In the Local section <br>
 He also accounted for the most expenses and the most revenue generated in the catergory of Local Trucks drivers which is understandable.
 ## Recommendation
 I will recommed the stakeholders to make give provide initiatives for outstanding employee to increase their productivity and a means of acknowledgement of the job well done.
+<br><br>
+![Drivers section](https://user-images.githubusercontent.com/92920156/194876546-d22a6907-198b-4f9c-921f-3e1c4bbfde03.jpg)
 
-<div align=center>
-<iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection68ae205ed19a82d7c24b" frameborder="0" allowFullScreen="true"></iframe>
-</div>
-<br>
 
 ## The Product Section
 Which contains 4 main visuals, 8 cards and 3 slicers
