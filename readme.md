@@ -184,8 +184,7 @@ I will recommed the stakeholders to get new trucks to replace these trucks in fe
         
 ![truck section](https://user-images.githubusercontent.com/92920156/194875885-b0ab3ee4-68d0-4b25-8de9-b66a0569a94f.jpg)
 
-
-2. ## The Trip Section
+## 2. The Trip Section
 Which contains 4 main visuals, 3 cards and 3 slicers
 ### The cards shows:
 - Total Trips
@@ -221,10 +220,10 @@ Warri depot happens to be the most active depot, while abuja happens to be the m
 ## Recommendation
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
 <br><br>
-<div align=left >
-<iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection4641173b6ac39aee8c22" frameborder="0" allowFullScreen="false"></iframe>
-</div>
-<br>
+ 
+ ![trip section](https://user-images.githubusercontent.com/92920156/194876312-55d2cf9c-2cee-4679-9824-9d0cc7b2b4bf.jpg)
+
+
 
 3. ## The Drivers Section
 Which contains 4 main visuals, 8 cards and 3 slicers
