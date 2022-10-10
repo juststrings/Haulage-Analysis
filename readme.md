@@ -520,4 +520,7 @@ This shows a year to date, quater to date and month to date visual of alll the c
 #### Importance of The visual
 This will enable the stakeholders understand the how the expenses incurred are performing from a year to a date level
 <br><br>
-[![Expenses Section]([https://user-images.githubusercontent.com/92920156/194908483-d776ad49-c7b0-466b-96a8-f6e189de6cc4.jpg](https://user-images.githubusercontent.com/92920156/194915435-71133491-024f-434b-9fb4-d30c3f960e90.jpg))](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Expenses Section](https://user-images.githubusercontent.com/92920156/194915951-37c2da38-ad60-436e-94ec-d8fa959a7bb2.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+
+
+
