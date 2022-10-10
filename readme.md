@@ -127,7 +127,7 @@ I enabled many to one relationship and cross filter direction from the destinati
 
 # Findings and Recommendations 
 
-## Starting From the Truck Section <br>
+## Starting From the Truck Section
 Which contains 5 main visuals, 6 cards and 3 slicers
 ### The cards shows:
 - The total trucks
@@ -185,7 +185,7 @@ I will recommed the stakeholders to get new trucks to replace these trucks in fe
     <iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection16a40e10e52960e0676b" frameborder="0" allowFullScreen="false"></iframe>
 </div>
 
-## The Trip Section <br>
+## The Trip Section
 Which contains 4 main visuals, 3 cards and 3 slicers
 ### The cards shows:
 - Total Trips
@@ -225,8 +225,7 @@ I will recommed the stakeholders to make deal with mechanics and repair shop at 
 <iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection4641173b6ac39aee8c22" frameborder="0" allowFullScreen="false"></iframe>
 </div>
 <br>
-
-## The Drivers Section <br>
+## The Drivers Section
 Which contains 4 main visuals, 8 cards and 3 slicers
 ### The cards shows:
 - Total No of Drivers
