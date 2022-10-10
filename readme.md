@@ -181,7 +181,7 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
 <br><br>
-<div align=center >
+<div align=left >
 <iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9" frameborder="0" allowFullScreen="false">     </iframe>
 </div>
 
@@ -207,11 +207,15 @@ This shows the total trips travelled by trucks which includes a drill through fr
 #### Importance of The visual
 This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
 
+- ### The Flow maps
+The first flow map shows the how the trucks travelled from the depot to various desitnation with concentration on the destination visited.<br>
+The second flow  map shows the how the trucks travelled from the depot to various desitnation with concentration on the depot.
+#### Importance of The visual
+This will enable the stakeholders know which area or route to create repair shops or cut a deal with the mechanic along the route in advert of a truck breakdown.
+
 
 ## Findings
-Majority of the companies truck were purchased in 2020.<br>
-The top 5 trucks that travelled the most destination where purchased in year 2020 with majority being non aquilla, bridging trucks having majority capacity of 45,000litres and none currentlu under repair.<br>
-Over 160 of these trucks are available for use while 290 are currently on route at the time the data was collected.
+
 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
