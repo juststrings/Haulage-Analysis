@@ -281,13 +281,12 @@ I will recommed the stakeholders to make give provide initiatives for outstandin
 
 ## 4. The Product Section
 Which contains 5 main visuals, 1 cards and 2 slicers
-### The cards shows:
+### The cards shows
+- The total product moved
 
-
-### The slicers shows:
+### The slicers includes:
 - Year Slicer to filter between years
-- The Classification Slicer
-- The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
+- The Status Slicer
 
 ## The Visuals
 - ### The first visual contains a bar charts showing the Most Active Depot
