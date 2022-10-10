@@ -135,7 +135,7 @@ Which contains 5 main visuals, 6 cards and 3 slicers
 - Trucks Under Repair
 - The three classification of trucks
 
-### The cards shows:
+### The slicers shows:
 - Year Slicer to filter between years
 - Status Slicer to filter between available and unavailable trucks
 - Classification Slicers to filter between the classification of the truck 
@@ -192,7 +192,7 @@ Which contains 4 main visuals, 3 cards and 3 slicers
 - Total Open Trips
 - Total Closed Trips
 
-### The cards shows:
+### The slicers shows:
 - Year Slicer to filter between years
 - The Truck No slicer
 - The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
@@ -222,11 +222,50 @@ Warri depot happens to be the most active depot, while abuja happens to be the m
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
 <br><br>
 <div align=left >
-<iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9" frameborder="0" allowFullScreen="false">     </iframe>
+<iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection4641173b6ac39aee8c22" frameborder="0" allowFullScreen="false"></iframe>
 </div>
-
-
 <br>
+
+## The Drivers Section <br>
+Which contains 4 main visuals, 8 cards and 3 slicers
+### The cards shows:
+- Total No of Drivers
+- Total Closed Trips
+- Total Revenue
+- Expenses
+- Profit
+- Total Number of bridging drivers
+- West local drivers
+- Local Drivers
+
+### The slicers shows:
+- Year Slicer to filter between years
+- The Classification Slicer
+- The Driver's name slicer (note: all names are fictional and any similarities with real person should be taken as coincidence)
+
+## The Visuals
+- ### The first visual contains a bar charts showing the Most Active Depot
+#### Importance of The visual
+This visual will make its easier for the decision makers to know which of depot they have more presence in advert of employement and development
+
+- ### Line charts showing total trips, closed trips and open trips
+This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
+#### Importance of The visual
+This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
+
+- ### The Flow maps
+The first flow map shows the how the trucks travelled from the depot to various desitnation with concentration on the destination visited.<br>
+The second flow  map shows the how the trucks travelled from the depot to various desitnation with concentration on the depot.
+#### Importance of The visual
+This will enable the stakeholders know which area or route to create repair shops or cut a deal with the mechanic along the route in advert of a truck breakdown.
+
+
+## Findings
+A total of 15K trips have being carried out by the company at the time of this report. Having a total of over 6k closed trips and 7k open trips. <br> 
+Warri depot happens to be the most active depot, while abuja happens to be the most visited places.
+
+## Recommendation
+I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
 
 
 
