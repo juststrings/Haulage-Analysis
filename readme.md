@@ -289,20 +289,19 @@ Which contains 5 main visuals, 1 cards and 2 slicers
 - The Status Slicer
 
 ## The Visuals
-- ### The first visual contains a bar charts showing the Most Active Depot
+- ### The first visual contains a pie chart showing the product moved by status (open or closed)
 #### Importance of The visual
-This visual will make its easier for the decision makers to know which of depot they have more presence in advert of employement and development
+This visual will make its easier for the decision makers to know the quantity of product on the road and those delivered.
 
-- ### Line charts showing total trips, closed trips and open trips
-This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
+- ### Treemap Visual
+This shows the total product moved by product types
 #### Importance of The visual
-This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
+This will enable the stakeholders know which product type they moving the most
 
-- ### The Flow maps
-The first flow map shows the how the trucks travelled from the depot to various desitnation with concentration on the destination visited.<br>
-The second flow  map shows the how the trucks travelled from the depot to various desitnation with concentration on the depot.
+- ### The column chart
+This shows the product types by expenses
 #### Importance of The visual
-This will enable the stakeholders know which area or route to create repair shops or cut a deal with the mechanic along the route in advert of a truck breakdown.
+This will enable the stakeholders know which of the product types are the spending the most in, in terms of transportation.
 
 
 ## Findings
