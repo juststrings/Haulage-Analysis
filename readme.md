@@ -84,8 +84,7 @@ The dataset was provided by my mentor <br>
 After importing the datasets using the import method in power bi:<br>
 Then, the first task i did was to clean the data by renaming misspelt values in columns, changing data-types and splitting the date-time columns (in tables that had them) to increase performance.<br>
 <br/>
-
-[<img src="https://user-images.githubusercontent.com/92920156/194769932-eaf39578-461a-4dca-b480-a8b502cdd211.jpg" />](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+![applied steps 1](https://user-images.githubusercontent.com/92920156/194879509-c8e9f056-3e97-4c1e-84a7-df049a4f4cef.jpg)
 
 
 Then I used excel to create a new table including just a column named total truck trip by copy the truck trip id from both closed and open trips into a single column. This was done to create a better relationship between this two columns.<br>
@@ -183,7 +182,9 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
 <br><br>
- ![truck section](https://user-images.githubusercontent.com/92920156/194876715-6e3874a8-c4e7-4984-a568-5c6b67052913.jpg)
+
+[<img src="https://user-images.githubusercontent.com/92920156/194769932-eaf39578-461a-4dca-b480-a8b502cdd211.jpg" />](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+
 
         
 ## 2. The Trip Section
