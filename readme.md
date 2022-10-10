@@ -180,10 +180,10 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
-<br><br>
-<div align=left >
-    <iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection16a40e10e52960e0676b" frameborder="0" allowFullScreen="false"></iframe>
-</div>
+<br><br
+        
+![truck section](https://user-images.githubusercontent.com/92920156/194875885-b0ab3ee4-68d0-4b25-8de9-b66a0569a94f.jpg)
+
 
 2. ## The Trip Section
 Which contains 4 main visuals, 3 cards and 3 slicers
