@@ -368,7 +368,7 @@ Other drivers should be charged to work more to reduce the overhead effect on th
 
 [![Revenue Section](https://user-images.githubusercontent.com/92920156/194907077-a8565d24-3f23-4068-af43-92a89906e40d.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectiond55df70af4a105088c79)
 
-## 5. The Profit Section
+## 6. The Profit Section
 Which contains 5 main visuals, 1 multi cards and 2 slicers
 ### The cards shows
 - The total trip rate
@@ -419,7 +419,7 @@ Other drivers should be charged to work more to reduce the overhead effect on th
 [![Profit Section](https://user-images.githubusercontent.com/92920156/194908483-d776ad49-c7b0-466b-96a8-f6e189de6cc4.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectionebf219d48d2e8d363cc5)
 
 
-## 6. The Expenses Section
+## 7. The Expenses Section
 Which contains 5 bookmarks, 5 main visuals, 1 multi cards and 2 slicers
 ### The multi-cards shows
 - Total Expenses
@@ -524,7 +524,7 @@ This will enable the stakeholders understand the how the expenses incurred are p
 
 
 
-## 7. The Yearly Analysis Section
+## 8. The Yearly Analysis Section
 Which contains 7 main visuals and 3 slicers
 ### The slicers includes:
 - Year Slicer to filter between years
