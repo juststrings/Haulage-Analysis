@@ -349,7 +349,7 @@ This will enable the stakeholders know which of the product types are the spendi
 - ### The Treemap chart
 This shows the total Revenue generated per years
 #### Importance of The visual
-This will enable the stakeholders know which of the product have they moved the most.
+This will enable the stakeholders know which of the years have generated the most revenue.
 
 - ### The matrix chart
 This shows the product by capacity by product volume by total trips
