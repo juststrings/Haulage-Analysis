@@ -182,7 +182,7 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
 <br><br>
-[![Trucks Section](https://user-images.githubusercontent.com/92920156/194880008-de38eee6-05cd-4aa1-8c71-1bee3ce9addd.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Trucks Section](https://user-images.githubusercontent.com/92920156/194880008-de38eee6-05cd-4aa1-8c71-1bee3ce9addd.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection16a40e10e52960e0676b)
 
 
 
@@ -223,7 +223,7 @@ Warri depot happens to be the most active depot, while abuja happens to be the m
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
 <br><br>
 
-[![Trips Section](https://user-images.githubusercontent.com/92920156/194876312-55d2cf9c-2cee-4679-9824-9d0cc7b2b4bf.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Trips Section](https://user-images.githubusercontent.com/92920156/194876312-55d2cf9c-2cee-4679-9824-9d0cc7b2b4bf.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection4641173b6ac39aee8c22)
 
 ## 3. The Drivers Section
 Which contains 4 main visuals, 8 cards and 3 slicers
@@ -277,7 +277,7 @@ He also accounted for the most expenses and the most revenue generated in the ca
 I will recommed the stakeholders to make give provide initiatives for outstanding employee to increase their productivity and a means of acknowledgement of the job well done.
 <br><br>
 
-[![Drivers Section](https://user-images.githubusercontent.com/92920156/194876546-d22a6907-198b-4f9c-921f-3e1c4bbfde03.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Drivers Section](https://user-images.githubusercontent.com/92920156/194876546-d22a6907-198b-4f9c-921f-3e1c4bbfde03.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection68ae205ed19a82d7c24b)
 
 ## 4. The Product Section
 Which contains 5 main visuals, 1 cards and 2 slicers
@@ -320,7 +320,7 @@ Lesser product are on the road compared to the successfully delivered ones
 ## Recommendation
 I will recommend the decision makers to make sure that trucks of capacity 45,000L are always ready to answer clients request since the are the most moved whuch implies that trucks of such capacity will be the most demanded by clients.
 
-[![Product Section](https://user-images.githubusercontent.com/92920156/194882900-b0289125-f724-4ed3-82ff-e8fa47667ca1.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Product Section](https://user-images.githubusercontent.com/92920156/194882900-b0289125-f724-4ed3-82ff-e8fa47667ca1.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection02c4bbdf9905ef002511)
 
 ## 5. The Revenue Section
 Which contains 5 main visuals, 1 cards and 2 slicers
@@ -366,7 +366,7 @@ Road pilot Bala Generated the most Revenue which is understandable due to the ty
 ## Recommendation
 Other drivers should be charged to work more to reduce the overhead effect on the company's revenue incase Mr Bala decides to leave.
 
-[![Revenue Section](https://user-images.githubusercontent.com/92920156/194907077-a8565d24-3f23-4068-af43-92a89906e40d.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Revenue Section](https://user-images.githubusercontent.com/92920156/194907077-a8565d24-3f23-4068-af43-92a89906e40d.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectiond55df70af4a105088c79)
 
 ## 5. The Profit Section
 Which contains 5 main visuals, 1 multi cards and 2 slicers
@@ -416,7 +416,7 @@ Road pilot Bala yielded the most profit which is understandable due to the type 
 ## Recommendation
 Other drivers should be charged to work more to reduce the overhead effect on the company's profit incase Mr Bala decides to leave.
 
-[![Profit Section](https://user-images.githubusercontent.com/92920156/194908483-d776ad49-c7b0-466b-96a8-f6e189de6cc4.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Profit Section](https://user-images.githubusercontent.com/92920156/194908483-d776ad49-c7b0-466b-96a8-f6e189de6cc4.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectionebf219d48d2e8d363cc5)
 
 
 ## 6. The Expenses Section
@@ -520,7 +520,7 @@ This shows a year to date, quater to date and month to date visual of alll the c
 #### Importance of The visual
 This will enable the stakeholders understand the how the expenses incurred are performing from a year to a date level
 <br><br>
-[![Expenses Section](https://user-images.githubusercontent.com/92920156/194915951-37c2da38-ad60-436e-94ec-d8fa959a7bb2.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![Expenses Section](https://user-images.githubusercontent.com/92920156/194915951-37c2da38-ad60-436e-94ec-d8fa959a7bb2.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectionb6ce676c7ea503ec24c8)
 
 
 
@@ -547,8 +547,8 @@ Which might mean expanding to the locations where other products are in demand t
 Also, I will recommend the company to get more of her trucks aquilla registered to benefits from the subsidy provided by the government, Without forgetting to encourage her workers. <br> 
 My finally recommendation to the company is that they should offer incentives such as a reduction in trip rate for returning clients in other to retain them.
 <br><br>
-[![yearly analysis](https://user-images.githubusercontent.com/92920156/194921479-c9c0374a-c465-4924-8d2e-74b27545ee13.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+[![yearly analysis](https://user-images.githubusercontent.com/92920156/194921479-c9c0374a-c465-4924-8d2e-74b27545ee13.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectiond43246349261ca04983e)
 
-[Link to live Report]("https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection")
+[Link to live Report](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection)
 
 
