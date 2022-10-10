@@ -174,8 +174,14 @@ This shows the total trucks by capacity and available trucks
 This will enable the stakeholders know the truck by capacity they have in stock and those that are available for jobs. When clients demands for them
 
 ## Findings
-Majority of the companies truck were purchased in 2020.
-The top 5 trucks that travelled the most destination where purchased in year 2020 white majority being non aquilla, bridging trucks  with the most having a capacity of 45,000litres
+Majority of the companies truck were purchased in 2020.<br>
+The top 5 trucks that travelled the most destination where purchased in year 2020 with majority being non aquilla, bridging trucks having majority capacity of 45,000litres and none currentlu under repair.<br>
+Over 160 of these trucks are available for use while 290 are currently on route at the time the data was collected.
+
+## Recommendation
+I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
+
+
 
 <br><br>
 ![truck](https://user-images.githubusercontent.com/92920156/194777819-94e9ec2a-32b8-4218-9d66-20c70fb73d12.jpg)
