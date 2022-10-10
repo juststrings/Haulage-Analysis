@@ -1,3 +1,4 @@
+<body bgcolor="#F3FCF0">
 # Introduction
 Haulage Analysis for a fictional haulage bussiness.
 
