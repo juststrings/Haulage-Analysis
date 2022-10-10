@@ -322,6 +322,48 @@ I will recommend the decision makers to make sure that trucks of capacity 45,000
 
 [![Product Section](https://user-images.githubusercontent.com/92920156/194882900-b0289125-f724-4ed3-82ff-e8fa47667ca1.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
 
+## 5. The Revenue Section
+Which contains 5 main visuals, 1 cards and 2 slicers
+### The cards shows
+- The total product moved
+
+### The slicers includes:
+- Year Slicer to filter between years
+- The Status Slicer
+
+## The Visuals
+- ### The first visual contains a pie chart showing the product moved by status (open or closed)
+#### Importance of The visual
+This visual will make its easier for the decision makers to know the quantity of product on the road and those delivered.
+
+- ### Treemap Visual
+This shows the total product moved by product types
+#### Importance of The visual
+This will enable the stakeholders know which product type they moving the most
+
+- ### The column chart
+This shows the product types by expenses
+#### Importance of The visual
+This will enable the stakeholders know which of the product types are the spending the most in, in terms of transportation.
+
+- ### The column chart
+This shows the product by product moved
+#### Importance of The visual
+This will enable the stakeholders know which of the product have they moved the most.
+
+- ### The matrix chart
+This shows the product by capacity by product volume by total trips
+#### Importance of The visual
+This will enable the stakeholders know which product types is the most moved and of which of the capacities
+
+## Findings
+The most moved product is the white product.<br>
+Lesser product are on the road compared to the successfully delivered ones
+
+## Recommendation
+I will recommend the decision makers to make sure that trucks of capacity 45,000L are always ready to answer clients request since the are the most moved whuch implies that trucks of such capacity will be the most demanded by clients.
+
+[![Product Section](https://user-images.githubusercontent.com/92920156/194882900-b0289125-f724-4ed3-82ff-e8fa47667ca1.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
 
 
 
