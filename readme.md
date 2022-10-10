@@ -442,6 +442,8 @@ Which contains 5 bookmarks, 5 main visuals, 1 multi cards and 2 slicers
             - Union Expenses
             - Trip Allowance
 
+---
+
 ### - The Visuals for Bookmark(2)
 - ### The Decomposition Tree
 This shows a breakdown of all expenses by depot, destination, product type, trip status and driver's name.
