@@ -175,7 +175,7 @@ This will enable the stakeholders know the truck by capacity they have in stock 
 
 ## Findings
 Majority of the companies truck were purchased in 2020.<br>
-The top 5 trucks that travelled the most destination where purchased in year 2020 with majority being non aquilla, bridging trucks having majority capacity of 45,000litres and none currentlu under repair.<br>
+The top 5 trucks that travelled the most destination where purchased in year 2020 with majority being non aquilla, bridging trucks having majority capacity of 45,000litres and none of the trucks (trucks bought in 2020)currently under repair.<br>
 Over 160 of these trucks are available for use while 290 are currently on route at the time the data was collected.
 
 ## Recommendation
