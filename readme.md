@@ -261,7 +261,6 @@ This shows the total trips travelled by trucks which includes a drill through fr
 #### Importance of The visual
 This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
 
-
 ## Findings
 The dataset provided gave only details(name) of drivers whom have successfully completed a trip.<br>
 In the bridging section <br>
@@ -269,10 +268,14 @@ In the bridging section <br>
 He also accounted for the most expenses in the catergory of bridging drivers which is understandable but with a lesser revenue generated (the third driver with the most revenue generated) due to the destination he his plying.
 
 In the West Local section <br>
-- Mr Austin had the most succeful number of trips. Travelling from Warri to Sapelle.<br>
-He also accounted for the most expenses in the catergory of bridging drivers which is understandable but with a lesser revenue generated (the third driver with the most revenue generated) due to the destination he his plying.
+- Mr Ubaka had the most succeful number of trips. Travelling from Warri and few other states like Auchi.<br>
+He also accounted for the most expenses and the most revenue generated in the catergory of West Local Trucks drivers which is understandable.
+
+In the Local section <br>
+- Mr Ubaka had the most succeful number of trips. Travelling from Warri and few other states like Auchi.<br>
+He also accounted for the most expenses and the most revenue generated in the catergory of Local Trucks drivers which is understandable.
 ## Recommendation
-I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
+I will recommed the stakeholders to make give provide initiatives for outstanding employee to increase their productivity and a means of acknowledgement of the job well done.
 
 <div align=center>
 <iframe title="Haulage 3" width="1040" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection68ae205ed19a82d7c24b" frameborder="0" allowFullScreen="true"></iframe>
