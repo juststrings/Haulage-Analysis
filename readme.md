@@ -1,5 +1,5 @@
 # Introduction
-Haulage Analysis for a fictional haulage bussiness.
+Haulage Analysis for a fictional haulage business.
 
 ---
 
@@ -13,7 +13,7 @@ all rights belongs to the orignal creator
 # Problem Objective <br>
 
 Data Analysis using Power BI<br>
-Creating a Reports that gives the insights on a fictional haulage business covering the employee productivity, most moved product(most profitable product), revenue, expenses by product,drivers and depot and destination visited. 
+Creating a Reports that gives the insights on a fictional haulage business covering the employee productivity, most moved product(most profitable product), revenue, expenses by product, drivers and depot and destination visited. 
 Including a year over year analysis.
 
 ---
@@ -44,7 +44,7 @@ The dataset was provided by my mentor <br>
     - Time
     - Truck No
     - Destination
-    - Actual Arriver Date 
+    - Actual Date 
 - Trip Rates:  This iclude more than 9 columns: 
     - Load Port
     - Destination
@@ -87,10 +87,10 @@ Then, the first task i did was to clean the data by renaming misspelt values in 
 ![applied steps 1](https://user-images.githubusercontent.com/92920156/194879509-c8e9f056-3e97-4c1e-84a7-df049a4f4cef.jpg)
 
 
-Then I used excel to create a new table including just a column named total truck trip by copy the truck trip id from both closed and open trips into a single column. This was done to create a better relationship between this two columns.<br>
+Then I used excel to create a new table including just a column named total truck trip id by copy the truck trip id from both closed and open trips into a single column. This was done to create a better relationship between these two columns.<br>
 ### Note
-I didn't append both tables because they had little structural differences.
-Then i imported this newly created table which i named destinations into power bi (note: I later used this table as my fact table. Forgive me for the wrong choice of name)
+I didn't append both tables because they had little structural differences.<br>
+Then I imported this newly created table which I named destinations into power bi (note: I later used this table as my fact table. Forgive me for the wrong choice of name)
 
 ### - Step 2
 I created a primary key in all the initial five tables to enable creating relationship with the destination table easier.<br>
@@ -145,29 +145,29 @@ Which contains 5 main visuals, 6 cards and 3 slicers
 - ### The first visual contains a pie charts showing the total trucks by the year Purchased
 #### Importance of The visual
 This visual will make its easier for the decision makers to know which of their trucks are prone to breakdown and prepare for it before hands.
-Factors influencing breakdown include how much the trucks is being used this brings us to the next visuals
+Factors influencing breakdown include how much the trucks is being used, this brings us to the next visual.
 
 - ### Bar chart showing the Total Trips per trucks
-This visual shows how many trips a truck has travelled through out the bussiness's lifetime(2 years+).
+This visual shows how many trips a truck has travelled through out the business's lifetime(2 years+).
 #### Importance of The visual
-This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand due to breakdown.
+This will enable the stakeholders know which of their trucks are the most active and prepare for replacement before hand imcase of a breakdown.
 
 - ### Treemap Visual showing aquilla status by trucks
-This shows trucks by their registration type
+This shows trucks by their registration type.
 #### Importance of The visual
-This will enable the stakeholders know which of their trucks are available for aquilla approved states
+This will enable the stakeholders know which of their trucks are available for aquilla approved states.
 
 
 - ### Line charts showing total trips, closed trips and open trips
-This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
+This shows the total trips travelled by trucks which includes a drill through from year, to quarter, month and day.
 #### Importance of The visual
 This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
 
-- ### Barcharts showing the percentage classification of trips
+- ### Pie chart showing the percentage classification of trips
 This shows the percentage classification of all trucks 
 #### Importance of The visual
 This will enable the stakeholders know the truck types they have in stock and the type of destination they can travel based on their classification and know which type of trucks will warrant more investment.<br>
-With Bridging meaning long distance trucks, West local- Trucks that travels to closer states and local meaning trucks that travels within states.
+With Bridging meaning long distance trucks, West local - Trucks that travels to closer states and local meaning trucks that travels within states.
 
 - ### Matrix Showing the capacity of trucks by total trucks and available trucks
 This shows the total trucks by capacity and available trucks
@@ -176,7 +176,7 @@ This will enable the stakeholders know the truck by capacity they have in stock 
 
 ## Findings
 Majority of the company's truck were purchased in 2020.<br>
-The top 5 trucks that travelled the most destination where purchased in year 2020 with majority being non aquilla, bridging trucks having majority capacity of 45,000litres and none of the trucks (trucks bought in 2020)currently under repair.<br>
+The top 5 trucks that travelled the most destination where purchased in year 2020 with majority being non aquilla, bridging trucks having majority capacity of 45,000litres and none of the trucks (trucks bought in 2020) are currently under repair.<br>
 Over 160 of these trucks are available for use while 290 are currently on route at the time the data was collected.
 
 ## Recommendation
@@ -203,20 +203,20 @@ Which contains 4 main visuals, 3 cards and 3 slicers
 This visual will make its easier for the decision makers to know which of depot they have more presence in advert of employement and development
 
 - ### Line charts showing total trips, closed trips and open trips
-This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
+This shows the total trips travelled by trucks which includes a drill through from year, to quarter, month and day
 #### Importance of The visual
 This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
 
 - ### The Flow maps
 The first flow map shows the how the trucks travelled from the depot to various destination with concentration on the destination visited.<br>
-The second flow  map shows the how the trucks travelled from the depot to various destination with concentration on the depot.
+The second flow  map shows how the trucks travelled from the depot to various destination with concentration on the depot.
 #### Importance of The visual
-This will enable the stakeholders know which area or route to create repair shops or cut a deal with the mechanic along the route in advert of a truck breakdown.
+This will enable the stakeholders know which area or route to create repair shops or strike a deal with the mechanic along the route in advert of a truck breakdown.
 
 
 ## Findings
 A total of 15K trips have being carried out by the company at the time of this report. Having a total of over 6k closed trips and 7k open trips. <br> 
-Warri depot happens to be the most active depot, while abuja happens to be the most visited places.
+Location 4 depot happens to be the most active depot, while abuja happens to be the most visited places.
 
 ## Recommendation
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
@@ -252,15 +252,15 @@ This visual will make its easier for the decision makers to know which of their 
 
 - ### The treemap showing total revenue generated by drivers
 #### Importance of The visual
-This visual will make its easier for the decision makers to know which of their drivers have they generated the most revenue from due to his successful trips.
+This visual will make its easier for the decision makers to know which of their drivers have they generated the most revenue from their successful trips.
 
 - ### Line charts showing total trips, closed trips and open trips
-This shows the total trips travelled by trucks which includes a drill through from year, quarter,month and day
+This shows the total trips travelled by trucks which includes a drill through from year, to quarter,m onth and day
 #### Importance of The visual
 This will enable the stakeholders know the total trips travelled by their trucks and prepare before hand for breakdown.
 
 ## Findings
-The dataset provided gave only details(name) of drivers whom have successfully completed a trip.<br>
+The dataset provided gave only details(name) of drivers whom have successfully completed a trip (closed trips).<br>
 In the bridging section <br>
 - Pilot 151 had the most successful number of trips. Travelling from Warri to Sapelle.<br>
 He also accounted for the most expenses in the catergory of bridging drivers which is understandable but with a lesser revenue generated (the third driver with the most revenue generated) due to the destination he his plying.
@@ -272,8 +272,9 @@ He also accounted for the most expenses and the most revenue generated in the ca
 In the Local section <br>
 - Pilot 658 had the most succeful number of trips. Travelling from Warri and few other states like Auchi.<br>
 He also accounted for the most expenses and the most revenue generated in the catergory of Local Trucks drivers which is understandable.
+
 ## Recommendation
-I will recommed the stakeholders to make give provide initiatives for outstanding employee to increase their productivity and a means of acknowledgement of the job well done.
+I will recommed the stakeholders to give / provide initiatives for outstanding employee to increase their productivity and a means of acknowledgement of the job well done.
 <br><br>
 
 [![Drivers Section](https://user-images.githubusercontent.com/92920156/195020848-2f7ac418-0737-4999-9474-42072e9f21d4.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection68ae205ed19a82d7c24b)
@@ -300,9 +301,9 @@ This will enable the stakeholders know which product type they moving the most
 - ### The column chart
 This shows the product types by expenses
 #### Importance of The visual
-This will enable the stakeholders know which of the product types are the spending the most in, in terms of transportation.
+This will enable the stakeholders know which of the product types they spending the most on, in terms of transportation.
 
-- ### The column chart
+- ### The column chart 2
 This shows the product by product moved
 #### Importance of The visual
 This will enable the stakeholders know which of the product have they moved the most.
@@ -317,10 +318,9 @@ The most moved product is the white product.<br>
 Lesser product are on the road compared to the successfully delivered ones
 
 ## Recommendation
-I will recommend the decision makers to make sure that trucks of capacity 45,000L are always ready to answer clients request since the are the most moved whuch implies that trucks of such capacity will be the most demanded by clients.
+I will recommend the decision makers to make sure that trucks of capacity 45,000L are always ready to answer clients request since the are the most used which implies that trucks of such capacity will be the most demanded by clients.
 
 [![Product Section](https://user-images.githubusercontent.com/92920156/195021536-05eff087-d244-4d7e-95d1-e0093edb5458.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection02c4bbdf9905ef002511)
-![Product section]
 
 ## 5. The Revenue Section
 Which contains 5 main visuals, 1 cards and 2 slicers
@@ -359,7 +359,7 @@ This will enable the stakeholders drill through the revenue and notice the facto
 
 ## Findings
 The product that generate most revenue is the white product due to the fact that it the most moved product.<br>
-While revenue generated by the trip status is nearly evenly distributed with open trip 3%+ more than the revenue generated by the closed trip which is also understandable due to the dataset which clearly says the total open trips are nore than the succesfully completed trips (closed trips). <br>
+While revenue generated by the trip status is nearly evenly distributed with open trip 3%+ more than the revenue generated by the closed trip which is also understandable because the dataset clearly says the total open trips are more than the succesfully completed trips (closed trips). <br>
 The most revenue generated came from the year 2021 due to more bussiness active in the that year. <br>
 Road pilot 172 Generated the most Revenue which is understandable due to the type of destination he travels and the product he carries (Bridging driver).
 
@@ -404,12 +404,12 @@ This will enable the stakeholders drill through the revenue and notice the facto
 - ### The Column Chart Visuals
 The expenses by product type
 #### Importance of The visual
-This visual will make its easier for the decision makers to which product they are spending more on.
+This visual will make its easier for the decision makers to know which product they are spending more on.
 
 - ### Pie Chart Visual
 This shows the expenses by closed and open destination trips
 #### Importance of The visual
-This will enable the stakeholders know which of their trips have they spent more on.
+This will enable the stakeholders know which of their trips status they spent more on.
 
 - ### The Treemap chart
 This shows the expenses per years
