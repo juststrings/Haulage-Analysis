@@ -182,7 +182,7 @@ Over 160 of these trucks are available for use while 290 are currently on route 
 ## Recommendation
 I will recommed the stakeholders to get new trucks to replace these trucks in few years to come due to the higher possiblity of breakdown due to their immense usage.
 <br><br>
-[![Trucks Section](https://user-images.githubusercontent.com/92920156/194880008-de38eee6-05cd-4aa1-8c71-1bee3ce9addd.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection16a40e10e52960e0676b)
+[![Trucks Section](https://user-images.githubusercontent.com/92920156/194880008-de38eee6-05cd-4aa1-8c71-1bee3ce9addd.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection16a40e10e52960e0676b)
 
 
 ## 2. The Trip Section
@@ -222,7 +222,7 @@ Location 4 depot happens to be the most active depot, while abuja happens to be 
 I will recommed the stakeholders to make deal with mechanics and repair shop at strategic places along the most used route by its drivers incase of breakdown for immediate support and repair
 <br><br>
 
-[![Trips Section](https://user-images.githubusercontent.com/92920156/194876312-55d2cf9c-2cee-4679-9824-9d0cc7b2b4bf.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection4641173b6ac39aee8c22)
+[![Trips Section](https://user-images.githubusercontent.com/92920156/194876312-55d2cf9c-2cee-4679-9824-9d0cc7b2b4bf.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection4641173b6ac39aee8c22)
 
 ## 3. The Drivers Section
 Which contains 4 main visuals, 8 cards and 3 slicers
@@ -277,7 +277,7 @@ He also accounted for the most expenses and the most revenue generated in the ca
 I will recommed the stakeholders to give / provide initiatives for outstanding employee to increase their productivity and a means of acknowledgement of the job well done.
 <br><br>
 
-[![Drivers Section](https://user-images.githubusercontent.com/92920156/195020848-2f7ac418-0737-4999-9474-42072e9f21d4.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection68ae205ed19a82d7c24b)
+[![Drivers Section](https://user-images.githubusercontent.com/92920156/195020848-2f7ac418-0737-4999-9474-42072e9f21d4.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection68ae205ed19a82d7c24b)
 
 ## 4. The Product Section
 Which contains 5 main visuals, 1 cards and 2 slicers
@@ -320,7 +320,7 @@ Lesser product are on the road compared to the successfully delivered ones
 ## Recommendation
 I will recommend the decision makers to make sure that trucks of capacity 45,000L are always ready to answer clients request since the are the most used which implies that trucks of such capacity will be the most demanded by clients.
 
-[![Product Section](https://user-images.githubusercontent.com/92920156/195021536-05eff087-d244-4d7e-95d1-e0093edb5458.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection02c4bbdf9905ef002511)
+[![Product Section](https://user-images.githubusercontent.com/92920156/195021536-05eff087-d244-4d7e-95d1-e0093edb5458.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection02c4bbdf9905ef002511)
 
 ## 5. The Revenue Section
 Which contains 5 main visuals, 1 cards and 2 slicers
@@ -366,7 +366,7 @@ Road pilot 172 Generated the most Revenue which is understandable due to the typ
 ## Recommendation
 Other drivers should be charged to work more to reduce the overhead effect on the company's revenue incase Road pilot 172 decides to leave.
 
-[![Revenue Section](https://user-images.githubusercontent.com/92920156/195021790-28ba9ea0-363b-4252-b912-b145215d9449.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectiond55df70af4a105088c79)
+[![Revenue Section](https://user-images.githubusercontent.com/92920156/195021790-28ba9ea0-363b-4252-b912-b145215d9449.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectiond55df70af4a105088c79)
 
 
 ## 6. The Expenses Section
@@ -470,7 +470,7 @@ This shows a year to date, quater to date and month to date visual of alll the c
 #### Importance of The visual
 This will enable the stakeholders understand the how the expenses incurred are performing from a year to a date level
 <br><br>
-[![Expenses Section](https://user-images.githubusercontent.com/92920156/195022114-1fa1acfa-6487-459f-a132-c253cdbe3f2d.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectionb6ce676c7ea503ec24c8)
+[![Expenses Section](https://user-images.githubusercontent.com/92920156/195022114-1fa1acfa-6487-459f-a132-c253cdbe3f2d.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectionb6ce676c7ea503ec24c8)
 
 
 ## 7. The Yearly Analysis Section
@@ -496,9 +496,9 @@ Which might mean expanding to the locations where other products are in demand t
 Also, I will recommend the company to get more of her trucks aquilla registered to benefits from the subsidy provided by the government, Without forgetting to encourage her workers. <br> 
 My finally recommendation to the company is that they should offer incentives such as a reduction in trip rate for returning clients in other to retain them.
 <br><br>
-[![yearly analysis](https://user-images.githubusercontent.com/92920156/195022379-c6633243-175d-4600-914f-6e906e43c6b0.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectionfbe455b6ac5d81780793)
+[![yearly analysis](https://user-images.githubusercontent.com/92920156/195022379-c6633243-175d-4600-914f-6e906e43c6b0.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSectionfbe455b6ac5d81780793)
 
-[Link to live Report](https://app.powerbi.com/view?r=eyJrIjoiZDhkMDE3NWUtOTMwZi00NzdkLTk0MGItNzdhZjgzMTI4NDJhIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection)
+[Link to live Report](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NzhkZWMtMmM2OS00NmM2LTk5MTgtMmY1NzA0NDBjZjI1IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection)
 
 
 
