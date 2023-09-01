@@ -30,7 +30,7 @@ Notepad<br>
 The dataset was provided by my mentor <br>
 [Sulaiman Lukman](https://www.linkedin.com/in/sulaimanlukmanadeleke/) <br>
 ## The dataset includes 5 excel sheets;
-- Closed trip list: This iclude more than 7 columns: 
+- Closed trip list: This includes more than 7 columns: 
     - Trip No
     - Date
     - Time
@@ -38,14 +38,14 @@ The dataset was provided by my mentor <br>
     - Driver Name
     - Destination
     - Actual Date   
-- Open trip list:  This iclude more than 7 columns: 
+- Open trip list:  This includes more than 7 columns: 
     - Trip No
     - Date
     - Time
     - Truck No
     - Destination
     - Actual Date 
-- Trip Rates:  This iclude more than 9 columns: 
+- Trip Rates:  This includes more than 9 columns: 
     - Load Port
     - Destination
     - Product Category
@@ -56,7 +56,7 @@ The dataset was provided by my mentor <br>
     - Parking Fees
     - Capacity
     - Product
-- Truck Available: This icludes more than 7 columns: 
+- Truck Available: This includes more than 7 columns: 
     - Truck No
     - Product Type
     - Capacity
@@ -64,7 +64,7 @@ The dataset was provided by my mentor <br>
     - Aquilla Status
     - Status(Availability)
     - Depot Location
-- Truck List: This icludes more than 7 columns: 
+- Truck List: This includes more than 7 columns: 
     - Truck No
     - Product Type
     - Capacity
